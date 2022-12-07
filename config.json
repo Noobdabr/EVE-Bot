@@ -1,11 +1,10 @@
 {
-    "token": "DISCORD TOKEN",
+    "token": "MTA0NTYzNDc0OTAxNzg5OTAyOA.GDUMcQ.b-_Gd-hlW0hcVo-rlRNkI4HkhhPfJI2WhYFrPM",
     "color": "#34a6ef",
     "developerGuild": "GUILD ID",
-    "database": "MongoDB Url",
+    "database": "mongodb+srv://daksh9900:deepsingh09@cluster0.eomfjrj.mongodb.net/?retryWrites=true&w=majority",
     "supportServer": "DISCORD Invite Link",
     "activityInterval": 10,
     "activities": [
-            "/invite | dsc.gg/eve-bot",
 	    "/help | {servercount} servers"
     ]}
